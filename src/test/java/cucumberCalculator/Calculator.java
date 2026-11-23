@@ -14,6 +14,6 @@ public class Calculator {
         return a / b;
     }
     public String what(String a){
-        return a;
+        return a + "b";
     }
 }
